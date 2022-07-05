@@ -1,2 +1,2 @@
 # Encrypted-and-Authenticated-Communications
-Project from Information Security Course
+I implemented encrypted communications between two parties, Alice and Bob, and evaluated the performance of AES and RSA. I also implemented authenticated communications between them, and evaluated the performance of HMAC and RSA digital signature. For simplicity, Alice and Bob were simulated by two programs running on the same computer. When Alice sends a message to Bob, she writes the message to a file. Bob receives the message through reading from the file.
